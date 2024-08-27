@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtododetail\\addtododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtododetail\\addtododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtododetail\\addtododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtododetail\\addtododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtododetail\\addtododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtododetail\\addtododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\dtos\\tododetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\dtos\\tododetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtodo\\addtodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtodo\\addtodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtodo\\addtodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtodo\\addtodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\addtodo\\addtodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtodo\\addtodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\dtos\\todoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\dtos\\todoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\getalltodo\\getalltodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltodo\\getalltodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\databasecontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\databasecontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\itododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\tododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\tododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\application\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetodo\\updatetodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetodo\\updatetodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetodo\\updatetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetodo\\updatetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetodo\\updatetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetodo\\updatetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetododetail\\updatetododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetododetail\\updatetododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetododetail\\updatetododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetododetail\\updatetododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\updatetododetail\\updatetododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetododetail\\updatetododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\models\\tododetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tododetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetododetail\\deletetododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetododetail\\deletetododetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetodo\\deletetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetodo\\deletetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetododetail\\deletetododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetododetail\\deletetododetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetodo\\deletetodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetodo\\deletetodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetododetail\\deletetododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetododetail\\deletetododetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\deletetodo\\deletetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetodo\\deletetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\getalltodo\\getalltodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltodo\\getalltodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\services\\radisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\services\\radisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\mini project\\learnwebapi\\core\\features\\queries\\getalltodo\\getalltodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltodo\\getalltodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTodoDetailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:21:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTodoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodo\\AddTodoHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodo\\AddTodoHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:40:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDetailResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\DTOs\\TodoDetailResponseDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\TodoDetailResponseDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\DTOs\\TodoDetailResponseDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\TodoDetailResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:05:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTodoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodo\\AddTodoQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodo\\AddTodoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:40:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTodoDetailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:21:30.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTodoDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodoDetail\\AddTodoDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:21:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTodoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTodo\\AddTodoResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\AddTodo\\AddTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTodo\\AddTodoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:40:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\DTOs\\TodoResponseDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\TodoResponseDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\DTOs\\TodoResponseDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\TodoResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:04:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAWwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:42:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Application\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:11:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllTodoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:01:30.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:09:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Application\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:58:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:57:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T06:10:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:03:39.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\Todo.cs",
+              "RelativeToolTip": "Persistence\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:03:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TableContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeToolTip": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:05:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\DatabaseContext\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\DatabaseContext\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\DatabaseContext\\TodoContext.cs",
+              "RelativeToolTip": "Persistence\\DatabaseContext\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:10:59.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Core\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:44:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITodoDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:08:08.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:03:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TodoDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\TodoDetailRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TodoDetailRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\TodoDetailRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TodoDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:08:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:08:27.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Application\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "Application\\Controllers\\IndexController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:58:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateTodoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:05.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateTodoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:40:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateTodoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodo\\UpdateTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodo\\UpdateTodoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:18.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateTodoDetailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T08:58:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateTodoDetailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateTodoDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTodoDetail\\UpdateTodoDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:25:15.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TodoDetail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\TodoDetail.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TodoDetail.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\TodoDetail.cs",
+              "RelativeToolTip": "Persistence\\Models\\TodoDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:05:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:35:17.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteTodoDetailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:22:16.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteTodoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:35.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteTodoDetailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:22:46.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:58:39.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteTodoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:48.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteTodoDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodoDetail\\DeleteTodoDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:01.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeleteTodoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\DeleteTodo\\DeleteTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTodo\\DeleteTodoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:58.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetAllTodoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:01:41.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RadisService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Services\\RadisService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\RadisService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Services\\RadisService.cs",
+              "RelativeToolTip": "Core\\Services\\RadisService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:44:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TableSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TableSpecification.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeToolTip": "Persistence\\Models\\TableSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:03:00.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetAllTodoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\Mini Project\\LearnWebApi\\Core\\Features\\Queries\\GetAllTodo\\GetAllTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTodo\\GetAllTodoResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:01:56.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
